@@ -4,7 +4,7 @@ body {
   }
   
   header {
-    background-color: #4caf50;
+    background-color: cornflowerblue;
     margin: 0 auto;
     height: 50px;
   }
@@ -47,7 +47,7 @@ body {
   button {
     font-size: .65em;
     color: #fff;
-    background-color: green;
+    background-color: gold;
     border-radius: 10px;
   }
   
